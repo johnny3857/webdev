@@ -1,0 +1,20 @@
+# webdev
+WebDev sources
+
+https://flatuicolors.com/palette/defo
+
+https://www.0to255.com/
+
+https://ionicons.com/
+
+https://realfavicongenerator.net/
+
+https://imagecompressor.com/
+
+http://www.minifycss.com/
+
+http://imakewebthings.com/waypoints/
+
+https://daneden.github.io/animate.css/
+
+http://validator.w3.org/

@@ -19,3 +19,11 @@ http://imakewebthings.com/waypoints/
 https://daneden.github.io/animate.css/
 
 http://validator.w3.org/
+-----------------------
+GIT tutorial & cheat sheets:
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
+https://alvinalexander.com/git/git-cheat-sheet-git-reference-commands
+
+https://www.siteground.com/tutorials/git/
